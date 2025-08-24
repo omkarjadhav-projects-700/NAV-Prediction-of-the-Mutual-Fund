@@ -1,1 +1,1 @@
-# NAV-Prediction-of-the-Mutual-Fund
+# Statistical Analysis of ICICI Prudential BlueChip Mutual Fund
