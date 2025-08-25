@@ -57,7 +57,7 @@ The project successfully created a statistically significant model to predict th
 ## 👨‍💻 Author
 
 **Omkar Kailas Jadhav**
-- Bachelor of Science (B.Sc.) in Statistics
+- Bachelor of Science (B.Sc.) in Statistics (2021-2024)
 - K.T.H.M. College, Nashik
 - Savitribai Phule Pune University
 
